@@ -1,0 +1,1 @@
+# Vainglory-Api-contest-entry
